@@ -33,6 +33,14 @@
     "video":""
   },
   {
+    "name":"Mostafa Mohamed",
+    "slug":"mostafa-mohamed",
+    "subject":"Deutsch Teacher",
+    "message":"Ihr seid immer in meinem Herz.Ihr wart eine der besten Gruppe in meinem Arbeitsleben.",
+    "profilePhoto":"https://res.cloudinary.com/dievut6ka/image/upload/v1780429359/profiles/mostafa-mohamed/pfp.jpg",
+    "video":""
+  },
+  {
     "name":"Mohamed Abu Bakr",
     "slug":"mohamed-abu-bakr",
     "subject":"Arabic Teacher",
@@ -41,11 +49,10 @@
     "video":""
   },
   {
-    "name":"Mostafa Mohamed",
-    "slug":"mostafa-mohamed",
-    "subject":"Deutsch Teacher",
-    "message":"Ihr seid immer in meinem Herz.Ihr wart eine der besten Gruppe in meinem Arbeitsleben.",
-    "profilePhoto":"https://res.cloudinary.com/dievut6ka/image/upload/v1780429359/profiles/mostafa-mohamed/pfp.jpg",
+    "name":"Areej Osama",
+    "slug":"areej-osama",
+    "subject":"Chemistry Teacher",
+    "message":"My dear seniors ❤️\n\nTwo years went by much faster than I expected. You have been a big part of my days, and teaching you has truly been one of the best parts of my job.\n\nI’m so proud of how much you’ve grown, and I wish each one of you all the success and happiness in the future.\n\nGood luck with everything ahead, and don’t forget your Chemistry teacher. 🤍",
     "video":""
-  }
+  },
 ]
