@@ -41,18 +41,19 @@
     "video":""
   },
   {
+    "name":"Areej Osama",
+    "slug":"areej-osama",
+    "subject":"Chemistry Teacher",
+    "message":"My dear seniors ❤️\n\nTwo years went by much faster than I expected. You have been a big part of my days, and teaching you has truly been one of the best parts of my job.\n\nI’m so proud of how much you’ve grown, and I wish each one of you all the success and happiness in the future.\n\nGood luck with everything ahead, and don’t forget your Chemistry teacher. 🤍",
+    "profilePhoto":"https://res.cloudinary.com/dievut6ka/image/upload/v1780485546/profiles/areej-osama/pfp.jpg",
+    "video":""
+  },
+  {
     "name":"Mohamed Abu Bakr",
     "slug":"mohamed-abu-bakr",
     "subject":"Arabic Teacher",
     "message":"أفضل دفعة درست لها وأول دفعة دخلت قلبي بصراحة.\n\nالدفعة اللي بتشرح لها وأنت حاسس إنك أب مع أولاده، مش مجرد مدرس.\n\nأدب وعلم وأخلاق وحسن تربية، وفوق كل ده شطارة وتميز.\n\nدفعة مش هتتكرر أبدًا.\n\nمش عايز أقول أسماء خوفًا من إني أنسى حد، بس كلكم من أفضل وأحسن الطلاب اللي قابلتهم خلال مسيرتي التعليمية.\n\nوأنا بفتخر بيكم على طول، وهفضل فخور لمجرد إني كان ليا الشرف إني أدرّس لكم.",
     "profilePhoto":"",
-    "video":""
-  },
-  {
-    "name":"Areej Osama",
-    "slug":"areej-osama",
-    "subject":"Chemistry Teacher",
-    "message":"My dear seniors ❤️\n\nTwo years went by much faster than I expected. You have been a big part of my days, and teaching you has truly been one of the best parts of my job.\n\nI’m so proud of how much you’ve grown, and I wish each one of you all the success and happiness in the future.\n\nGood luck with everything ahead, and don’t forget your Chemistry teacher. 🤍",
     "video":""
   }
 ]
