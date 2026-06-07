@@ -360,6 +360,15 @@
     "ProfileImage": "https://res.cloudinary.com/dievut6ka/image/upload/profiles/hamza-mahmoud/pfp2.webp"
   },
   {
+    "Name": "Omar Amir",
+    "Slug": "omar-amir",
+    "Nickname": "Moro",
+    "Qoute": "The person I became was the lesson I didn't know I was learning.",
+    "Description": "Professional Overthinker, Amateur verything else.",
+    "Dream": "I want to make my parents proud.",
+    "ProfileImage": "https://res.cloudinary.com/dievut6ka/image/upload/v1780832264/profiles/omar-amir/pfp.jpg"
+  },
+  {
     "Name": "Omar Karim",
     "Slug": "omar-karim",
     "Nickname": "The GOAT",
